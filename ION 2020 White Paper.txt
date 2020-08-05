@@ -1,0 +1,122 @@
+
+ION 2020 White Paper
+ION Proposal 8
+Ionomy Vision With Innovative Network (WIN concept)
+
+Ionomy Ecosystem System Effects
+- ionomy 2020 thru 2025 platform assets and premium investment token assets (Ionomy 2020 collateral resources) can be transacted and accounted for on the blockchain.
+- Smart Contracts creation functionality facilitates new use cases for ION
+- ION Nodes facilitates network scaling by offloading contract and token management from the core ION blockchain
+- Secondary network based on the number of ionomy assets the wallet owns to register as active Invest-node
+- Smart Nodes that operate from all ION staking wallets
+- ION Sharenode that dynamical activates and controls smart ION nodes
+- Fees for smart contract transactions performed by the Sharenodes and Invest-nodes can be distributed to ION node addresses and/or token addresses.
+- ION wallet with the ability to create multiple Sharenodes and Invest-nodes using single large 250K wallet asset and from multiple wallets composed from more than two Ionomy assets.
+-Dynamic creation of nodes using summing of partial multiple wallets asset
+
+Sharenode Owner
+The amount of Ionomy asset required to active this node will be require at least one IONsx deposited in the ION wallet. These nodes are commonly refereed to as a Sharenode. Only holders of the sharenode asset will be permitted to vote using the ION wallet. You will be able to review and Vote on different proposals via the ION Blockchain (VIB). This would allow ION  sharenode owners with access to the ION wallet the ability to vote for developments going forward in  the ionomy  ecosystem. The current IIP 1 implementation  excludes  third party hosted ION wallets from voting.
+
+
+
+
+
+Smart Node Owner
+The amount of Ionomy asset required to active a smart node varies from all the available ionomy assets used during activation of the ION Node in any staking ION wallet. These dynamic ION Nodes are commonly refereed to as a Invest-node.  Only holders of the Invester-nodes  will be permitted to process Premium Investor Tokens (PIT) on the secondary ION network using the ION staking wallets.
+
+The Ionomy ecosystem is currently made up of nine types of proposed Ionomy Collateral Resources ranked from high to low order:
+
+ION
+Bitcoin
+
+Electron
+IONsx (Sharenode)
+DarkMatter
+Smart ION Node (Inactive till 2021 network)
+Atom
+
+HIVE
+Premium Investor Token
+
+Atom Owner
+The Atom asset is a token that can be purchased at ionomy V3 platform using trade buying system. The holders of 5,000 Atom assets are entitled to "ionomy Whale" privileges. The holders of 2,000 thru 500 Atoms asset are entitled to ionomy "Shark or Founder" privileges. ATOMs will get airdrops. Tokenizing ATOMs will give them new superpowers on the ION blockchain. First, ATOMs will get airdrops directly on chain. 10% of the Dark Matter supply goes to ATOM holders.
+
+DarkMatter Owner
+The DarkMatter asset is a genesis token that is being distributed to the ionomy community in accordance to the following XDM distribution allocations.  Half of all the DarkMatter asset will be given away in adoption, airdrops and crowd sales sponsored by ionomy. The process of asset/token creation will cost XDM of which a fraction will get burnt so making XDM a tiny bit more valuable.
+
+DarkMatter (XDM) is the first token on the ION blockchain. It has a limited supply of 71,000 and a deflationary protocol that causes a portion of the the transaction fee to be delete from circulation. The transaction fee is dynamic, beginning at the relatively high figure of 0.1x for the first ten thousand transactions and going down incrementally after every additional ten thousand XDM transactions. As the fee decreases, there is added incentive for more transactions. More transactions means more downward pressure on the total supply, which concentrates network value across a shrinking number of tokens. These baked-in features make XDM a superior store of value.
+
+The other important thing to remember about XDM is its utility proposition. XDM is an integral part of the Atomic Token Protocol (ATP) which allows users to make permissionless and immutable tokens that are embedded in the ION blockchain. Every time a user wants to create a new ATP token, it is necessary for them to spend XDM. Tokens on the ION blockchain can be used for any purpose, from in-game economies (incorporating ionomy’s GameGrid network) to fundraising mechanisms to verification systems (see the POTX protocol coming soon to ionomy). Every time one of these use cases becomes a reality, there are XDM transactions, which means fee burning and concentration of value.  
+
+Wallet Interface
+Urgent need to simplify interface between "newbie" crypto investor and innovative new ION "NEWTRON" 5.0+ wallets
+
+Wouldn't be nice if all you need to provide are
+1) Premium Investment Token (PIT) wallet's address,
+2) type of IONomy Collateral Resources asset, and
+3) whether the resource is a Sharenode or Invest-Node option  
+Your Node(s) are automatically built for you by 3rd party 2020 wallet hosting business.
+
+Ionomy 2020 Subscription Packages - Level of service
+
+Advance "Geek" member   <available only in yearly subscription>
+
+Starter "Saving" member using multiple Ionomy Collateral Resources
+
+Ionomy "Shark" Trading member   <FREE>
+
+Ionomy "Whale" All-in-One member   <available only in yearly subscription>
+
+Ionomy "Gamer" All-in-One member
+
+Token "Miner" Investor
+
+Ionomy "Minnow" IONsx member   <FREE>
+
+Note: Include paragraph of the privileges each member is subset of
+
+PRICES may vary thru 2020
+
+ION Mining 
+
+Smart Contracts
+Introducing smart contracts on the ION blockchain would add functionality to the blockchain that increases the utility and scalability of the ION network, including an increased functional role for masternodes and invest-nodes. Smart Contract bandwidth usage should never exceed 80% capacity of the secondary ION network. Addition of new types of Smart Contracts utilizing the ION blockchain or the secondary ION network at a later date should be approved by the ION Core Team and vote from all ION Masternode owners. To create and modify premium investment token assets, developers must pay a fee to the ION network. It’s planned that this fee is DarkMatter asset. Thus its secondary utility is for token governance.
+
+Ionomy Limited Assets Smart Contract
+The first Ionomy LTD assets on the blockchain for masternodes to process will be ION, IONsx, Atom, and DarkMatter(XDM) transactions. These Ionomy assets will be manageable in the ION wallet or on Ionomy V3 platform and beyond. XDM asset is coded to not just have a stable supply, but deflationary. Increased adoption actually accelerates the deflationary velocity by burning a small amount of it with every transaction.
+
+GAME-GRID Assets Smart Contract
+This ION proposal would allow for premium investment tokens using the GAME-GRID interface to be built on the ION blockchain and managed on Ionomy V3 platform . GAME-GRID Asset transactions will utilize the secondary ION network to process the transaction. The maximum number of different tokens active on the blockchain shall not exceed the processing capability of the secondary ION network composed from active ION  Invest-nodes. There will be an option in the ION wallets to select node preference.
+
+Premium Investment Token Asset (PIT) - The proposed will be composed of the following assets:
+1. Electrons
+
+2. Atoms
+
+3. DarkMatter
+
+4. Allows users to make permissionless and immutable tokens
+
+ION Asset
+The number of ION assets will increase based on the new block reward schedule being implemented in the ION blockchain (refer to IIP 7) . These assets were pre-mined at initialization of the ION blockchain and continues to created the asset according to the blockchain reward schedule in revised 2020 ION White Paper (refer to IIP 8 ). ION transactions will utilize all active ION wallets on the primary network to process the transaction. The ION transaction fees are added to the masternode's portion of the block reward. The block reward split between the masternode and staking wallets are defined in timelock-based block reward distribution paper (refer to IIP 4)
+
+Referenced ION Proposals
+IIP 1 Scopes out the purpose and guidelines for IIPs. The eventual goal is to incorporate this structure onto the blockchain. i.e. you will be able to review and vote on different IIPs V.I.B (Voting via ION Blockchain). Status is Implementation I.D.K (I Don't Know) The ION, Ionomy, and general public communities has APPROVED this proposal last year.
+
+IIP 2 Introduces secondary tokens onto the blockchain. This is happening now with the introduction of IONsx, Atom and XDM Ionomy tokens with IIPs 6, 7, 8 and 10. (current status: REJECTED - NOT in accordance with IIP 1 standards)
+
+IIP 3 Revised block reward schedule. (FREEZE ORDER - 5 year stagnate design implemented under ION Core Team's emergency process in current 2019 ION wallet)
+
+IIP 4 Timelock-based block reward structure. Status is I.D.K.  The ION, Ionomy, and general public communities has APPROVED this proposal last year.
+
+IIP 5 Halve masternode collateral requirement. Status is I.D.K The WIN design covers this proposal with introduction of IONsx asset containing 10,000 coins (refer to IIP 10)
+
+IIP 6 WildOnION-Node-Responsibility Ionomy 2020 Ecosystem White Paper (Draft stage by Mr. Onion & Mr. Matlack)
+
+]IIP 7 Increase-ION-Blockchain-Reward-with-Smart-Nodes-18-coins (WiN concept in Public consensus stage Sponsored by ION Founders team.). The ION Founders team is defined as you and Wild's Depot research and development members. Multiple personalities in one body is not a team.
+
+IIP 8 Add-Developer-Assets-to-ION-Blockchain ION 2020 White Paper (Authored by Wild's Depot & ION Core team).
+
+IIP 9 Encourage-5-Year-Growth-in-Ionomy-Ecosystem (currently in the hands of ionomy LTD Leadership/Management with ionomy updated 2020 roadmap).
+
+IIP 10 Ionomy-2025-Vision-with-ION-Blockchain-Network-Ownership (WIN concept with innovative ION Network) 
