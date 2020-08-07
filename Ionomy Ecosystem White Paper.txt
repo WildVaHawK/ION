@@ -1,0 +1,111 @@
+Ionomy Ecosystem White Paper
+March 3, 2020|ION & Ionomy White Papers
+
+
+Abstract
+The ionomy ecosystem is currently made up of eight types of proposed ionomy asset ranked from high to low order:
+- ION  Smiley
+- BTC - BITCOIN  Huh
+- Master  ION Node (Masternode Owners)  Huh
+- Smart ION Node  Huh
+- Atom ATOM Owners)  Huh
+- Deflationary Dark Matter -XDM  Huh
+- Zerocoin
+-  Electron
+- Premium Games Token
+
+This IIP changes the secondary ION network as follows:[/color]
+ 1) Improve ION network  functionality with addition of new Gamernodes being used to process large number of premium game token assets.
+2) The IIP introduces the system requirements and processing imposed on ION Smart Nodes in support of the secondary ION network of the ION blockchain with the current proposed ionomy ecosystem assets.
+3) The IIP will require the implementation with usage of "Smart Contracts" being processed on the ION blockchain. The limit on the number of premium game token assets being implemented on the ION blockchain should be determined by number of active ION Nodes in ION Core network.
+4) The addition of the "Smart Contracts" functionality will increase the value of ION. Having a variety of value assets are extremely useful in any mature ionomy ecosystem.
+
+Plain language tl;dr "Add Smart Contract functionality to the ION blockchain" - introduce the capacity to process contracts on the secondary network using ION wallets.
+
+ionomy Ecosystem Effects
+- ionomy.com assets and gaming assets can be transacted and accounted for on the blockchain.
+- Smart Contracts creation functionality facilitates new use cases for ION
+- ION Nodes facilitates network scaling by offloading contract and token management from the core ION blockchain
+- secondary network based on the number of ionomy assets the wallet owns to register as active Gamernode
+- Smart Nodes that operate from all ION staking wallets
+- ION masternode that dynamical activates and controls smart ION nodes
+- Fees for smart contract transactions performed by the masternodes and gamernodes can be distributed to ION node addresses and/or token addresses.
+
+Motivation
+
+Adam Matlack the chief strategist of ionomy has run the ionomy project with bottom up design implementation of ionomy functional capability. The ionomy products of the last two years have been riddled with defects and causing the code to be re-written. This IIP is top down design approach and will produce a smaller amount of defects for the life cycle of this ION coin project. The ionomy Ecosystem White Paper discusses the secondary ION network based on the number of ionomy assets the ION wallet owns to dynamically register as an "active Node" on ION network.  The creation of IIP-WildOnION-Node-Responsibility was quite challenging using current implementation of IIP 0001.
+
+Smart Contracts
+
+Introducing smart contracts on the ION blockchain would add functionality to the blockchain that increases the utility and scalability of the ION network, including an increased functional role for masternodes and gamernodes. Smart Contract bandwidth usage should never exceed 80% capacity of the secondary ION network. Addition of new types of Smart Contracts utilizing the ION blockchain or the secondary ION network at a later date should be approved by the ION Core Team and vote from all ION Masternode owners. To create and modify premium game token assets, developers must pay a fee to the ION network. It’s planned that this fee is Dark Matter assest. Thus its secondary utility is for token governance.
+
+Ionomy Ecosystem Assets
+
+Smart Node Owner
+The amount of Ionomy asset required to active a smart node varies from all the available ionomy assets used during activation of the ION Node in any staking ION wallet. These dynamic ION Nodes are commonly refereed to as a Gamernode.  Only holders of the gamernodes  will be permitted to process premium game tokens on the secondary ION network using the ION staking wallets.
+
+Master Node Owner
+The amount of Ionomy asset required to active this node will be fixed. The owner needs 10,000 ION coins deposited into ION wallet (See IIP 0005).  These nodes are commonly refereed to as a Masternode . Only holders of the masternode asset will be permitted to vote using the ION wallet. This would allow ION  masternode owners with access to the ION wallet the ability to vote for developments going forward in  the ionomy  ecosystem. The current IIP 0001 implementation  excludes  third party hosted ION wallets from voting.
+
+Atom Owner
+The Atom asset is a token that can be purchased at ionomy.com using auction buying system. The holders of 5,000 Atom assets are entitled to "ionomy Whale" privileges. The holders of 1,000 Atom assets are entitled to "ionomy Founder" privileges.
+
+Dark Matter Owner
+The Dark Matter asset is a genesis token that is being distributed to the ionomy community in accordance to the following XDM distribution allocations.  Half of all the Dark Matter asset will be given away in adoption, airdrops and crowd sales sponsored by ionomy.
+
+
+
+Specification
+
+PWR-GRID Assets Contracts
+This ION proposal would allow for premium game tokens using the PWR-GRID interface to be built on the ION blockchain and managed on Ionomy.com website. PWR-GRID Asset transactions will utilize the secondary ION network to process the transaction. The maximum number of different tokens active on the blockchain shall not exceed the processing capability of the secondary ION network composed from active ION  Gamernodes. There will be an option in the ION wallets to select node preference.
+
+Premium Game Token Asset -TBD
+
+Ionomy lTD Assets Contracts
+The first Ionomy LTD assets on the blockchain for masternodes to process will be Atoms and Dark Matter transactions. These Ionomy assets will be manageable in the ION wallet or on Ionomy.com website. XDM asset is coded to not just have a stable supply, but deflationary. Increased adoption actually accelerates the deflationary velocity by burning a small amount of it with every transaction.
+
+Ionomy Assets Transaction Flow
+
+
+ION Asset - The number of ION assets will increase based on the new block reward schedule being implemented in the ION blockchain (refer to IIP 0003) . These assets were pre-mined at initialization of the ION blockchain and continues to created the asset according to the blockchain reward schedule in revised ionomy White paper. ION transactions will utilize all active ION wallets on the primary network to process the transaction. The ION transaction fees are added to the masternode's 50% block reward fee. The block reward split between the masternode and staking wallets are defined in timelock-based block reward distribution paper (refer to IIP 0004).
+
+Atom Asset - The number of Atoms assets will never change from 100,000 Atoms. These assets will be pre-mined and created by the ION blockchain at activation of Ionomy LTD Contracts. Atom transactions will utilize the secondary ION network to process the transaction. The Atom transaction fees will be split with the holders of the Atom asset and ION Masternode. Purchase of Atom assets can be done at Ionomy auction performed at ionomy.com.
+
+Dark Matter Deflationary Asset - The XDM asset will start at 71,00 genesis tokens being pre-mined and created by the ION blockchain at activation of Ionomy LTD Contracts. Half of all the XDM will be given away in airdrops sponsored by ionomy. The XDM token supply diminishes with every transaction, making it a deflationary asset. Every time you send a XDM transaction by the ION Masternode secondary network, 80% of the transaction fee gets burned. XDM transactions will utilize the secondary ION network to process the transaction. The XDM transaction fees will be split with with the holders of the the Atom asset and ION Masternode. This incredible disappearing of genesis token supply means that, with every XDM transaction on the ION blockchain, you own a greater share of the total Dark Matter.
+
+XDM Transaction Burn Fees Matrix:
+
+
+Zerocoin Asset
+The number of xION assets will change as ION wallets create this coin. This assets will be mined in ION wallets and created by the ION blockchain. xION transactions will utilize the primary ION network to process the transaction. You will receive confirmation after the network mines the same size denomination. The xION transaction and mining fees will be burnt.
+Electron Asset
+The number of Electron assets will will change as ionomy.com maintains a supply of for sale to the community. Electron assets are also created by owners of the Atom assets. This assets will be maintained by Ionomy lTD in Electron storage capacity wallet. Electron transactions do not utilize the primary ION network to process the transaction. When the Electron storage capacity is full, The additional Electron assets will be burnt. Electrons can be applied to Ionomy LTD stakers to double stake daily payout.
+
+Rationale
+This IIP generates system requirements that insures a stable secondary network as ION blockchain grows in the future. This concept is very viable as shown with other coins when implementing similar functionality like CryptoKitties in one of the world's first blockchain games.
+
+Backwards Compatibility
+The proposal is backwards compatible with website released after ionomy.com version 3.0 and ION wallet version 3.0.4. The processing of token assets functionality on the blockchain has been implemented in a prior ION proposal.
+
+ION Improvement Plan
+The design of this proposal will be documented in the ION wallet Program Design Specification (PDS) document maintained by the ION Core Team. Implementation of this ION wallet upgrade correctly will require commitment and a significant number of Man-hours from Ionomy LTD DEVs, the ION Core Team and ionomy community. To support the ION Core Team rapid development schedule, "Ionomy lTD Assets Contracts" design can be implemented as first smart contract on the ION blockchain proving the test of concept and document the real bandwidth usage. The funding of this new functionality could be obtained from crowd sale of ionomy new deflationary asset Dark Matter. Utilizing the code created and tested by the ION Core Team effort. Phase 1 should have system designers Adam Matlack and Mr. Coins to implement it (refer to IIP 0002). Phase 2 of this design will bring forth "PWR-GRID Assets" and other Smart Contracts to the ionomy. This IIP should use a life-cycle development process that encourages sound system principles and a healthy ION network as ionomy ecosystem grows in the future.
+
+ION Improvement White Paper: 1 July 2018
+
+ION Core Team IIPs Referenced
+IIP_0001 - IIP Purpose and Guidelines
+IIP_0002 - Secondary tokens
+IIP_0003 - Revised block reward schedule
+IIP_0004 - Timelock-based block reward distribution
+IIP_0005 - Masternode collateral halving
+
+IIP Accountability
+Draft ionomy IIP Name: IIP-WildOnION-Node-Responsibility
+Author: Wild onION and ION_Huey
+Type: Informational
+Status: Draft
+Created: 07-04-2018
+
+Coment on draft paper can be made at:
+https://ion.community/topic/2787/ion-improvement-proposal-wildonion-node-responsibility
